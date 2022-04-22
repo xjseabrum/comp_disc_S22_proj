@@ -1,0 +1,11 @@
+# Requirements for comp project.
+
+# !pip3 install -U sentence-transformers
+# !pip3 install -U numpy
+# !pip3 install kneed
+# !pip3 install pickle5
+
+sentence-transformers
+numpy
+kneed
+pickle5
