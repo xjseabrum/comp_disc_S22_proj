@@ -1,5 +1,5 @@
 # Computational Models of Discourse Final Project:  Unsupervised Approaches to the PDTB
-This final project showcases my abilities to implement unsupervised approaches to PDTB 2.0.  The motivation behind this is to determine a possible cause as to why the best neural models on predicting the PDTB 2.0 tag aren't garnering an accuracy metric better than 55%. The final project report can be found in the file called ".pdf"
+This final project showcases my abilities to implement unsupervised approaches to PDTB 2.0.  The motivation behind this is to determine a possible cause as to why the best neural models on predicting the PDTB 2.0 tag aren't garnering an accuracy metric better than 55%. The final project report can be found in the file called [Unsupervised Approaches to the PDTB.pdf](https://github.com/xjseabrum/comp_disc_S22_proj/blob/main/Unsupervised%20Approaches%20to%20the%20PDTB.pdf)
 
 # Class Description and Syllabus
 The class (which I took under Alexis Palmer at CU Boulder in Spring 2022) went over many topics regarding how discourse is modelled computationally.  Topics include: Theories of Discourse, Discourse coherence, Coreference resolution, RST and PDTB, chatbots, and dialogue systems. The syllabus can be found here: [CompDiscSyllabus.PNG](https://github.com/xjseabrum/comp_disc_S22_proj/blob/main/CompDiscSyllabus.PNG)
